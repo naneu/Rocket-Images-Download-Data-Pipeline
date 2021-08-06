@@ -10,7 +10,7 @@ We will use a free and open API (subject to rate limit) the Launch Library 2, an
 
 see the snippet of the data the url returns.
 
-![url-snippet](/media/kamotonyi/ab60d3cc-ad1c-4824-99e5-0748f1a70b26/airflow-test-data/rockets/images/url-snippet.png)
+https://github.com/naneu/Rocket-Images-Download-Data-Pipeline/blob/main/images/url-snippet.png
 
 The image below shows the mental model.
 
@@ -54,11 +54,10 @@ After the set up, visit http://localhost:8080 and log in with the username you c
 
 After triggering the DAG, it will start running and you will see the current state of the workflow. and since dependencies were set between tasks, the consecutive tasks will only start running once the upstream task has been completed. 
 
-![dag-running](/media/kamotonyi/ab60d3cc-ad1c-4824-99e5-0748f1a70b26/airflow-test-data/rockets/images/dag-running.png)
+https://github.com/naneu/Rocket-Images-Download-Data-Pipeline/blob/main/images/dag-running.jpg
 
 
-
-![dag-run-result](/media/kamotonyi/ab60d3cc-ad1c-4824-99e5-0748f1a70b26/airflow-test-data/rockets/images/dag-run-result.png)
+https://github.com/naneu/Rocket-Images-Download-Data-Pipeline/blob/main/images/dag-run-result.png)
 
 
 
@@ -70,4 +69,4 @@ All tasks logs are collected in airflow, so  we can check the notify task logs t
 
 
 
-![notify-logs](/media/kamotonyi/ab60d3cc-ad1c-4824-99e5-0748f1a70b26/airflow-test-data/rockets/images/notify-logs.jpg)
+https://github.com/naneu/Rocket-Images-Download-Data-Pipeline/blob/main/images/notify-logs.jpg)
