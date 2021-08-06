@@ -9,8 +9,7 @@ Rockets are arguably one of the humanity's engineering marvels, and every launch
 We will use a free and open API (subject to rate limit) the Launch Library 2, an online repository of historical and future rocket launches from different sources. The launch library the data for the upcoming rocket launches together with URLs of where to find images of the respective rockets. (https://ll.thespacedevs.com/2.0.0/launch/upcoming)
 
 see the snippet of the data the url returns.
-
-https://github.com/naneu/Rocket-Images-Download-Data-Pipeline/blob/main/images/url-snippet.png
+![snippet](/images/url-snippet.png)
 
 The image below shows the mental model.
 
