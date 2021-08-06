@@ -16,7 +16,7 @@ The image below shows the mental model.
 
 
 
-![mental_image](/media/kamotonyi/ab60d3cc-ad1c-4824-99e5-0748f1a70b26/airflow-test-data/rockets/images/mental_image.jpg)
+https://github.com/naneu/Rocket-Images-Download-Data-Pipeline/blob/main/images/mental_image.jpg)
 
 
 
